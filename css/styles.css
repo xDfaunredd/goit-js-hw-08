@@ -35,9 +35,9 @@ img {
   flex-wrap: wrap;
   justify-content: center;
 
-  width: 1128px;
-
   margin: 24px auto;
+
+  width: 1128px;
 
   align-items: center;
   gap: 24px;
